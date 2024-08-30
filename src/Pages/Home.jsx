@@ -44,7 +44,7 @@ function Home() {
       <section className="home" id="home">
         <div className="home-text">
           <h1>
-            Show, <span>Visualize &</span> <br />  Enjoy the Algorithm <br /> Visit Us
+            Show, <span>Visualize &</span> <br />  Enjoy the Algorithm,<br /> Visit Us
           </h1>
           <a href="#Home" className="button1">
             Explore Algorithm <i className="bx bxs-right-arrow"></i>

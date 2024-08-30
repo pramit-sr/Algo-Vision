@@ -2,8 +2,8 @@ import React from 'react'
 
 const listitems = [
   { name: 'Home', link: '#home' },
-  { name: 'Features', link: 'https://prakhar0703.github.io/etch-a-sketch/' },
-  { name: 'Community', link: '#community' },
+  { name: 'Grid', link: 'https://prakhar0703.github.io/etch-a-sketch/' },
+  { name: 'BS', link: 'https://pramit-sr.github.io/Binary-Search/' },
   { name: 'About Us', link: '#about' },
   { name: 'Contact Us', link: '#contact' }
 ];
